@@ -1,6 +1,5 @@
 # Reinforcement_Learning
-Implementation of Reinforcement Learning Meghods
-
+Implementation of Reinforcement Learning Methods
 
 Implemented Algorithms: 
 + e-soft on-policy Monte Carlo control
