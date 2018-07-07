@@ -7,3 +7,5 @@ Implemented Algorithms:
 + Temporal difference [TD(0)]
 + Actor-critic 
 + Gibbs softmax
+
+"input1.txt" can be used as the sample input
